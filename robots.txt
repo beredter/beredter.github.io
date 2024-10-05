@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://beredter.github.io/sitemap.html.gz
+Sitemap: https://beredter.github.io/app/sitemap.html.gz
+Sitemap: https://beredter.github.io/assets/sitemap.html.gz
+Sitemap: https://beredter.github.io/css/sitemap.html.gz
+Sitemap: https://beredter.github.io/data/sitemap.html.gz
+Sitemap: https://beredter.github.io/includes/sitemap.html.gz
+Sitemap: https://beredter.github.io/item/sitemap.html.gz
+Sitemap: https://beredter.github.io/src/sitemap.html.gz
